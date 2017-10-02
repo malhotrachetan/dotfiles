@@ -1,3 +1,3 @@
 # dotfiles
 
-Just a few config files in my machine.
+dotfiles de la vim. prendre plaisir!
